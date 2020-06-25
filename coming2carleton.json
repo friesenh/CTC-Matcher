@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "coming2carleton-281317",
+  "private_key_id": "a9c3369abc822a5efc17cf0d2876debc7eb489f5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCTfNIbBKwSRSOB\nMMSVCMg0u+psFXtqqRVsnylv26yFfiyWmo92fy1Pjtz5M4O1O/Xc5PYXgdd2Vxjh\n3UZNlZPsOFuw5hZoOsiVEou3k8PuymuipHHdv8/7PZUSKBWsNaK2pGoEvadnRq8z\ns6j0cosMkTn5GuNs5DDRZ/YoRaHas+9k2TqQxQwpYeIPxR/6JbpziBgfhmeDiztT\nuCny2Q2lKaKhAXjeDvoNPV/5PJ3rALPlkqnfXFjqD6CPqnal8TzGIqFFAK1y9zOA\n4eSqLmHEpNkk4Jh3+MoNrlKtAEUsPj1QxnzbCbOGAaLMrO9fwnlQOOXYKB+ePqK9\nmpY/wnRxAgMBAAECggEAQh31RIZyKxiSg5JctiEDO1y4iO6SbqzQ/WpWlZ4pd4iq\nLXOpd6oool89oXueAiuYmweLaNtcv2DpNyvOne49q2pSdHmZNu2PSQDQ4KGd9tkI\nqpdEsm+QKaWgQ8zzdklvIaiQHIL23l36IdfbGIaW3jHmhs0ugfzEA8QyvjgFCHju\nPvL9BLDzpboWr5rq9YUNuVLC76cjBAyGnBR73ftlCMrwN2QsAcxZ6vUVc6v/vMeD\niKdzaXHjSScgumW4FgjDOvbOclqNrhPD6Ro+Erktbht1FOT6bNW41AunbgD5xIm/\nixfKSlB9oXHTY8n8zHq2rVZIhY7oB7k9WdTfApjaVwKBgQDIT7Zi4uEoHxGc9m2Z\n2BMvEBIgXOJOnrSiZ9sod86gwahLauoyerRF0pTfOIOa7/XBNxyHD9Ram90KzsvW\nhOR5cSaRHbrVyRbl3NE+mAeQwbhcsNLPUteuKOaoJegWgVLBQNKjGyMXtIa69K+I\nqnSCB8KAQtt1UBQmD7YwecjauwKBgQC8fZrzUkskvKXFwMSFdDgq4fAwzeuJyh0J\nT/AN2HBngsNgVN5BGoTXRbqRIu3mPas2tyqcUni74tEaYvkINvc8+/4jQIvnTIYh\nkaA1GZPnjiZmL+eS8IquVxJNZVSLCR4eT2baaBVHajqqlztT5D6QORZ3U0ybm9lu\nz57UcuoIwwKBgQCvQrdkq/eugAiMGjzpF1opmlkRwdMsUMXhNxdUwAalNuvGGOSS\niDPEx6wD5tGXNY8Dn/Gw5pO5N5heRXOp3Rp+exbwb1+yf8AuHFdj+ebcq/Jf/0Jj\nrasSMa0mwAvh7QL4HXxuw2af7g7X8xDGdcV8o8d1K4oSiZ8nciXJIjUv0wKBgCH3\neI7Ui5oJLM5gGIn8EYsYwBHracCg3W6qKxYzpL3igJbBdHPC9aFdfWteIgTVpB7u\nDw2whvVEwG3C3CGw1gj1WCy+GvgJgDpYZchr3Y1ivmS3yUFfe35DTpcH5Z5QfE71\n/BDrpLoD2KKZMiXCAcw3nWbPagS4pwwi+fpK4wXFAoGBAKsw0G2rdrsBVznYZpdI\nnp87iem6RNrdR0CGoqEx0UTDp6zpCyLPEL0tzhG/+HSRVYBOJ+hw+wcO3+jWYwN8\nHvG5UBDM53CJM89kkj2A7JID8Yyoabmt6k+QJizwRTG4MwPm217iBrtZLDYuU2CC\nauULT/y3KqW9A6Z34zK+mLgE\n-----END PRIVATE KEY-----\n",
+  "client_email": "teagansaccount@coming2carleton-281317.iam.gserviceaccount.com",
+  "client_id": "114211226327878647415",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/teagansaccount%40coming2carleton-281317.iam.gserviceaccount.com"
+}
